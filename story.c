@@ -27,6 +27,7 @@ int main( void )
   amd2b7_sentence1();
   pld9bc_2();
   amd2b7_sentence2();
+  mjir4d_sentence1();
   pld9bc_1();
 
   
@@ -47,6 +48,7 @@ int main( void )
   //jmlmdfnext();  
 jebd4f_Sentence2();
 iphvg5_sentence1();
+mjir4d_sentence2();
   
   // Bens sentence should be last.
   bensSentence_FINAL();

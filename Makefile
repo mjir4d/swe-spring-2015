@@ -93,4 +93,6 @@ lmwv2c.o: sentences/lmwv2c.c
 	$(CC) -c $<
 pld9bc.o: sentences/pld9bc.c
 	$(CC) -c $<
+mjir4d.o: sentences/mjir4d.c
+	$(CC) -c $<
 	
